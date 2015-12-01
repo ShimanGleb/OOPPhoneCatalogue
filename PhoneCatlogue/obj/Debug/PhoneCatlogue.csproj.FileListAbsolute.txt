@@ -1,0 +1,9 @@
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\bin\Debug\PhoneCatlogue.exe.config
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\bin\Debug\PhoneCatlogue.exe
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\bin\Debug\PhoneCatlogue.pdb
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\obj\Debug\PhoneCatlogue.csprojResolveAssemblyReference.cache
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\obj\Debug\PhoneCatlogue.Form1.resources
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\obj\Debug\PhoneCatlogue.Properties.Resources.resources
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\obj\Debug\PhoneCatlogue.csproj.GenerateResource.Cache
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\obj\Debug\PhoneCatlogue.exe
+F:\Загрузки\PhoneCatlogue\PhoneCatlogue\obj\Debug\PhoneCatlogue.pdb
